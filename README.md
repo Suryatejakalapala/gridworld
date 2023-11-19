@@ -34,7 +34,7 @@ Value Iteration is a dynamic programming algorithm used to find the optimal stat
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Suryatejakalapala/gridworld.git](https://github.com/Suryatejakalapala/gridworld.git)
+    git clone https://github.com/Suryatejakalapala/gridworld.git
     ```
 
 2. **Navigate to the project directory:**
